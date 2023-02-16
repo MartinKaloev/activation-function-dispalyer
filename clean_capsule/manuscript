@@ -1,0 +1,23 @@
+#
+Contacts: 
+eng. M. Kaloev 
+kaloev_92@mail.ru
+
+I. This code support discussions from paper: 
+"Comparative Analysis of Activation Functions Used in the Hidden Layers of Deep Neural Networks"
+with doi:
+DOI: 10.1109/HORA52670.2021.9461312
+
+II. What is in the code:
+Neural Net trained for classification. In "results" you fill find images of pasterns of signal values in hidden layers of the neural net. 
+This illustrates how different activation function do change hidden layers signals, it answers the question are different activation function mutually interchangeable after training process is completed
+
+III. How to start:
+-For interaction with the code: do start *.ipynb file in Jupiterlab. This maybe done by selecting "JypiterLab icon button" and selection the *.ipynb file after loading process and pressing the (triangle button) play button. This will generate fresh examples of images of patterns of signals in activation functions.
+-Alternatively use the play button (reproduce button) this will start default starting script 
+
+IV. Raw codes:
+If you want to use "raw code" those are found in directory: "Raw_codes"
+There is Keras version and Pytorch version. Alternatively: 
+https://github.com/MartinKaloev/ann_testing_activation_functions
+ 
